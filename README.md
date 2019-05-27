@@ -28,7 +28,7 @@ $ pwd                                                         # # Вывод т�
 $ mkdir -p workspace/tasks/                                   # Создание папки workspace/tasks/
 $ mkdir -p workspace/projects/                                # Создание папки workspace/projects/
 $ mkdir -p workspace/reports/                                 # Создание папки workspace/reports/
-$ cd workspace                                                #  Переход в папку /duchessacid/workspace
+$ cd workspace                                                #  Переход в папку /AlexanderSkrebkov3/workspace
 ```
 
 ```ShellSession
@@ -55,7 +55,7 @@ $ source scripts/activate                             # Выполнение с�
 
 
 $ npm install -g gistup                             # Установка пакета gistup в node js
-$ ls node/bin                                       # Вывод файлов из /duchessacid/workspace/node/bin
+$ ls node/bin                                       # Вывод файлов из /AlexanderSkrebkov3/workspace/node/bin
 gistup  gistup-open  gistup-rename  node  npm
 
 
